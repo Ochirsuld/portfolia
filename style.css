@@ -45,6 +45,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-bottom: 140px;
 }
 
 .logo{
@@ -143,7 +144,7 @@ section .main-container{
 }
 
 .main-container .image{
-    width: 500px;
+    width: 600px;
     height: 80vh;
     border-radius: 500%;
     overflow: hidden;
@@ -151,7 +152,7 @@ section .main-container{
 }
 
 .main-container .image img{
-    width: 100%;
+    width: 80%;
     scale: 1.3;
 }
 
